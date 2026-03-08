@@ -1,4 +1,6 @@
-### Hey there 👋, this is [Swarup!] ![visitors](https://visitor-badge.laobi.icu/badge?page_id=indraasura.indraasura)
+### Hey there 👋, this is Swarup ![visitors](https://visitor-badge.laobi.icu/badge?page_id=indraasura.indraasura)
+
+I am currently working as a Product Manager @ linecraft.ai and I sometimes dabble in design and code
 
 ### Worked in:
 <code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
