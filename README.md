@@ -1,30 +1,5 @@
 ### Hey there 👋, this is [Swarup!] ![visitors](https://visitor-badge.laobi.icu/badge?page_id=indraasura.indraasura)
 
-
-I am full-stack developer(MERN Stack) and a Product Manager
-<br />
-
-<a href="https://twitter.com/swarup-hegde">
-  <img align="left" alt="twitter" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/swarup_hegde">
-  <img align="left" alt="LinkdeIN" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://www.instagram.com/swarup_hegde/">
-  <img align="left" alt="instagram" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<br />
-
-<br />
-
-### **About me:**
-- 🔭 I’m currently working as a Product Manager.
-- 👯 I’m looking to collaborate with organizations in helping them set product roadmaps, strategise business plans and make sure deliverables are reached on time
-- 💬 Ask me about anything related to Full Stack Development, Product Management, UI/UX Design, manga, hip hop and anime
-- 📫 How to reach me: drop in an email at swaruphegde@gmail.com
-
 ### Worked in:
 <code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
